@@ -1,0 +1,5 @@
+Test,Status,Komunikat,Czas
+TEST 1,Sukces,Połączenie z MongoDB powiodło się.,2025-06-12T19:03:08.800955
+TEST 3,Sukces,Kolekcja pusta – brak danych jak oczekiwano.,2025-06-12T19:03:08.870953
+TEST 2,Sukces,Insert i odczyt dokumentu powiodły się.,2025-06-12T19:03:08.938557
+TEST 4,Sukces,Dokument zgodny ze schematem (jeśli ustawiony).,2025-06-12T19:03:08.972967
